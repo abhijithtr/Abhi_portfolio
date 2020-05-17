@@ -1,4 +1,4 @@
-### ABHI_PORTFOLIO  [https://abhijithtr.github.io/Abhi_portfolio/]
+### [ABHI_PORTFOLIO](https://abhijithtr.github.io/Abhi_portfolio/)
 Exploratory data science projects
 
 
