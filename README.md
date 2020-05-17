@@ -2,6 +2,8 @@
 Exploratory data science projects
 
 
-## PROJECT 1 : Testing
-This project explains the basics of data science...
+[## PROJECT 1 : ]Hello-world(https://github.com/abhijithtr/hello-world)
+This being the first work using github.
+
+
 
